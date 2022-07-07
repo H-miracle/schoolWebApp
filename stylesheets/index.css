@@ -266,4 +266,14 @@ header {
    align-items: center;
    gap: 1.4rem;
    height: fit-content;
+   background: var(--color-primary);
+   cursor: pointer;
+}
+.faq h4 {
+   font-size-adjust: 1rem;
+   line-height: 2.2;
+}
+.faq__icon {
+   align-self: flex-start;
+   font-size-adjust: 1.2rem;
 }
